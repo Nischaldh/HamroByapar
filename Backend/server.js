@@ -14,7 +14,7 @@ import taxRouter from "./routes/taxRoute.js";
 //App config
 const app = express();
 const port = process.env.PORT || 4000
-connectCloudinary();
+connectCloudinary
 
 
 //Middleware
